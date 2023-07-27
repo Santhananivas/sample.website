@@ -1,0 +1,477 @@
+@import url('font-awesome.min.css');
+
+.container .section1 .logo p
+{
+    margin-top: 24px;
+    font-size: 20px;
+    color: #2091C4;
+    padding-left: 50px;
+}
+
+.logo ,.menu
+{
+    margin-bottom: 20px;
+}
+
+.container .section1 .row
+{
+    border-bottom: 1px solid rgb(138, 136, 136) ;
+}
+
+.container .section1 .menu ul
+{
+    list-style: none;
+    padding-left: 112px;
+    margin-top: 20px;
+}
+
+.container .section1 .menu ul li
+{
+    float: left;
+    margin: 0 10px 0 10px;
+    padding: 10px; 
+}
+
+.container .section1 .menu a
+{
+    color: black;
+    text-decoration: none;
+}
+
+.container .section1 .menu a:hover
+{
+    color: #2091C4;
+}
+
+
+#red
+{
+    background-color:#2091C4;
+    border-radius: 10px;
+    color: white;
+}
+
+#orange
+{
+    background-color:#FF683A;
+    border-radius: 10px;
+    color: white;
+}
+
+#red a , #orange a
+{
+    color: aliceblue;
+}
+
+#red a , #orange a:hover
+{
+    color: white;
+}
+
+#red:hover
+{
+    background-color: rgb(112, 195, 233);
+}
+
+#orange:hover
+{
+    background-color: rgb(247, 120, 82);
+}
+
+.container .section2 .headerimg
+{
+    padding: 0;
+}
+
+.container .section2 .headerimg img
+{
+    width: 1139px;
+    height: 450px;
+    padding-top: 10px;
+}
+
+.banner .apps .row
+{
+    padding-bottom: 40px;
+    padding-top: 50px;
+    border-bottom: 1px solid rgb(129, 128, 128);
+}
+
+.banner section .columsmall .row 
+{
+    margin-top: 60px;
+    padding-bottom: 60px;
+    border-bottom: 1px solid rgb(129, 128, 128);
+}
+
+.banner section .columsmall .row h3
+{
+    font-size: 27px;
+    margin-top: 0;
+} 
+
+.banner section .span2 .search
+{
+    
+    width: 268px;
+    height: 43px;
+    border-radius:3px;
+}
+
+.banner section .span2 a
+{
+    padding: 12px 29px 12px 35px;
+    background-color: rgb(91, 236, 91);
+    text-decoration: none;
+    color: black;
+    border-radius: 4px;
+    font-size: 20px;
+}
+
+.banner section .span2 a:hover
+{
+    background-color: #2091C4;
+    color: aliceblue;
+}
+
+.banner section .columsmall .row 
+{
+    padding-top: 30px;
+}
+
+.banner section .columsmall .row .drywash img
+{
+    width: 500px;
+    height: 500px;
+}
+
+
+.banner  .columsmall .row .subject h3
+{
+    color: rgb(146, 143, 143);
+    font-size: 37px;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.banner  .columsmall .row .subject p
+{
+    font-size: 25px;
+    color: rgb(146, 143, 143);
+    margin-top: 20px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.banner  .columsmall .row .subject .learn
+{
+    width: 200px;
+    height: 75px;
+    margin-left: 170px;
+}
+
+.banner  .columsmall .row .subject .learn .about, .about img
+{
+    width: 50px;
+    float: left;
+}
+
+.banner  .columsmall .row .subject .touch p
+{
+    font-size: 10px;
+}
+
+.banner  .columsmall .row .subject a
+{
+    padding: 20px 10px 20px 10px;
+    text-decoration: none;
+    width: 200px;
+    height: 75px
+}
+
+.banner section .laundromap .dropdown
+{
+    text-align: center;
+}
+
+.banner section .laundromap .bor1, .bor3
+{
+    border: 1px solid rgb(102, 102, 102);
+    width: 40px;
+    text-align: center;
+}
+
+.banner section .laundromap .bor2
+{
+    border: 3px solid #2091C4;
+    text-align: center;
+    width: 40px;
+}
+
+.banner section .laundromap .dropdown h3,p 
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    color:rgb(102, 102, 102) ;
+}
+
+.banner section .laundromap .dropdown h3
+{
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.container .tables .row
+{
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.container .tables 
+{
+    text-align: center;
+}
+
+.container .tables h3
+{
+    padding-bottom: 15px;
+}
+
+.container .tables .bor1 
+{
+    border: 1px solid  rgb(199, 197, 197);
+    width: 150px;
+    margin-left: 58px;
+}
+
+.banner2 
+{
+    border-top: 5px solid #2091C4;
+    background-color: rgb(230, 228, 228) ;
+    height: 600px;
+    border-bottom: 5px solid #2091C4;
+    padding: 50px 0 60px 0;
+}
+
+.banner2 .container .tables2 
+{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.banner2 .container .love h3
+{
+    text-align: center;
+    font-size: 3em;
+    color: rgb(63, 62, 62);
+    padding-bottom: 30px;
+}
+
+.banner2 .container .love .bor1 ,.love .bor4
+{
+    border: 1px solid rgb(201, 201, 201);
+    width: 50px;
+} 
+
+.banner2 .container .love .bor2
+{
+    border: 3px solid #2091C4;
+    width: 20px;
+}
+
+.banner2 .container .tables2 .day1 ,.day2 ,.day3
+{
+    margin-left: 46px;
+    margin-right: 36px;
+}
+
+.banner2 .container .tables2 .day1 h3 ,.day2 h3 ,.day3 h3
+{
+    border-top: 1px solid rgb(170, 170, 170);
+    padding-top: 40px;
+}
+
+.banner3 .container .row .prices h3
+{
+    text-align: center;
+    font-size: 3em;
+    color: rgb(75, 74, 74);
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.banner3 .container .prices .bor1 ,.prices .bor4
+{
+    border: 1px solid rgb(184, 182, 182);
+    width: 50px;
+} 
+
+
+.banner3 .container .prices .bor2
+{
+    border: 3px solid #2091C4;
+    width: 20px;
+}
+
+.banner3 .container .special
+{
+    text-align: center;
+}
+
+.banner3 .container .special img
+{
+    width: 200px;
+}
+
+.banner3 .container .special h3
+{
+    font-size: 30px;
+}
+
+.banner3 .container .special p
+{
+    padding: 0;
+    margin: 0;
+}
+
+.banner3 .container .special
+{
+    padding-bottom: 100px;
+}
+
+.banner4 .padder
+{
+    border-top: 1px solid rgb(170, 170, 170) ;
+}
+
+.banner4 .container .postal 
+{
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 60px;
+}
+
+#inter
+{
+    width: 368px;
+    height: 45px;
+    font-size: 20px;
+    outline-color: rgb(65, 238, 88);
+    outline: 0;
+    background-color: rgb(228, 226, 226);
+    border-radius: 6px;
+    margin-left: 10px;
+}
+
+#code 
+{
+    background-color: #FF683A;
+    border-color: #FF683A;
+    width: 254px;
+    height: 45px;
+    border-radius: 6px;
+    margin-left: 10px;
+}
+
+#code :hover
+{
+    background-color: #2091C4;
+}
+
+
+#code a
+{
+    color: white;
+    text-decoration: none;
+}
+
+#code h3
+{
+    margin: 11px 0 0 0;
+    font-size: 19px;
+
+}
+
+.footer
+{
+    background-color: rgb(37, 37, 37);
+    border-top: 5px solid #2091C4;
+    border-bottom: 5px solid #2091C4;
+    height: 600px;
+}
+
+.footer .footermenu
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid rgb(172, 168, 168);
+}
+
+.footer .footermenu ul
+{
+    list-style: none;
+}
+
+.footer .footermenu ul li
+{
+    float: left;
+    padding-right: 20px;
+}
+
+.footer .footermenu ul a
+{
+    color: white;
+}
+
+.footer .footermenu ul a:hover
+{
+    color: rgb(177, 175, 175);
+}
+
+.footer .footerhead h3
+{
+    font-size: 34px;
+}
+
+.footer .footerhead a
+{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.footer .footerhead 
+{
+    text-align: center;
+    border-bottom: 1px solid rgb(172, 168, 168);
+    padding-bottom: 50px;
+    padding-top: 25px;
+}
+
+.footer .footerhead .fooot
+{
+    margin-left: 127px;
+}
+
+.footer .footerlast
+{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.footer .footerlast .mail
+{
+    padding-top: 20px;
+}
+
+.footer .footerlast p
+{
+    text-align: center;
+    font-size: 16px;
+    padding: 5px 0 0 0;
+}
+
+
+/*------------------------ mdia ------------------------*/
+
+@media  screen and(max-width:900px )and(min-width:728px)
